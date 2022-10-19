@@ -1,0 +1,6 @@
+framework module Pods_hima {
+  umbrella header "Pods-hima-umbrella.h"
+
+  export *
+  module * { export * }
+}
